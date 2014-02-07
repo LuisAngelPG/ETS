@@ -18,5 +18,7 @@ public class Game {
 
 		Celda c = new Celda(P1.personaje, P2.personaje);
 		c.celda1();
+		
+		boolean prueba;
 	}
 }
